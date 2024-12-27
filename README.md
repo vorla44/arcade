@@ -12,3 +12,5 @@ http://programarcadegames.com/index.php?lang=fi&chapter=python_as_calculator
 
 ### 5. Kimpoava suorakulmio, törmäilyä
 
+### 6 Pygame - hiiri
+Luetaan hiiren paikka ja värjätään ruutu ristikosta, joka on tehty
