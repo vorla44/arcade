@@ -17,3 +17,7 @@ Luetaan hiiren paikka ja värjätään ruutu ristikosta, joka on tehty
 
 ### 7 Pygame -kuviot liike
 Piirretään kuvioita ja liikutellaan kuviota hiirellä
+
+### 8 Pygame - sprite
+tehdään näyttöön suorakuomioita ja syödään niitä hiirellä - laskuri 
+
