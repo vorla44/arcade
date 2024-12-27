@@ -21,3 +21,5 @@ Piirretään kuvioita ja liikutellaan kuviota hiirellä
 ### 8 Pygame - sprite
 tehdään näyttöön suorakuomioita ja syödään niitä hiirellä - laskuri 
 
+### 9 Pygame -keyboard
+Näppäimillä liikutetaan kuvaa
