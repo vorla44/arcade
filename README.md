@@ -5,3 +5,5 @@ Tähän tehdään erilaisia juttuja ARCADE ohjeita käyttäen
 http://programarcadegames.com/index.php?lang=fi&chapter=python_as_calculator
 
 ### 2. Funktoita ja kontrollia
+
+### 3. Salattu teksti (yksinkertainen malli)
