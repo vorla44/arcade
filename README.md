@@ -27,4 +27,5 @@ Näppäimillä liikutetaan kuvaa
 ### 10 pallopeli
 merkkipohjainen peli jossa arvaillaan pallon lentomatkaa
 
-
+### 11 snow
+Tässä tehdään lumisade. Hiutaleiden käsittely ikkunan reunalla.
