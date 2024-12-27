@@ -23,3 +23,8 @@ tehdään näyttöön suorakuomioita ja syödään niitä hiirellä - laskuri
 
 ### 9 Pygame -keyboard
 Näppäimillä liikutetaan kuvaa
+
+### 10 pallopeli
+merkkipohjainen peli jossa arvaillaan pallon lentomatkaa
+
+
