@@ -9,3 +9,6 @@ http://programarcadegames.com/index.php?lang=fi&chapter=python_as_calculator
 ### 3. Salattu teksti (yksinkertainen malli)
 
 ### 4. Pygame grafiikkaa, yksinkertaisia kuvioita
+
+### 5. Kimpoava suorakulmio
+
